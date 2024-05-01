@@ -6,16 +6,16 @@ const Banner = () => {
         <div>
             <Carousel>
                 <div>
-                    <img src="https://i.ibb.co/xJ4c5ZY/city-committed-education-collage-concept-1.jpg" />
-                    <p className="legend">Legend 1</p>
+                    <img className="max-w-md max-h-[520px] object-contain"  src="https://i.ibb.co/Kx7mS8W/1.png" />
+                   
                 </div>
                 <div>
-                    <img src="https://i.ibb.co/ZSvg3Sp/6845871-27827.jpg" />
-                    <p className="legend">Legend 2</p>
+                    <img className="max-w-md max-h-[520px] object-contain" src="https://i.ibb.co/4MDncyf/2.png" />
+                  
                 </div>
                 <div>
-                    <img src="https://i.ibb.co/xJ4c5ZY/city-committed-education-collage-concept-1.jpg" />
-                    <p className="legend">Legend 3</p>
+                    <img className="max-w-md max-h-[520px] object-contain"  src="https://i.ibb.co/XVQ5cMF/3.png" />
+                   
                 </div>
             </Carousel>
         </div>

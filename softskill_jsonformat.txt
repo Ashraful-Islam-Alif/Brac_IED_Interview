@@ -1,0 +1,84 @@
+{
+    "soft_skills_courses": [
+        {
+          "id": 1,
+          "title": "Effective Communication",
+          "description": "Learn how to communicate effectively in both personal and professional settings.",
+          "image": "communication.jpg",
+          "price": 49.99,
+          "other_info": "This course covers verbal and non-verbal communication techniques, active listening, and conflict resolution strategies. Duration: 6 weeks. Instructor-led sessions with interactive exercises."
+        },
+        {
+          "id": 2,
+          "title": "Teamwork and Collaboration",
+          "description": "Enhance your ability to work collaboratively with others and achieve common goals.",
+          "image": "teamwork.jpg",
+          "price": 59.99,
+          "other_info": "Explore team dynamics, effective delegation, and problem-solving in group settings. Duration: 8 weeks. Includes group projects and peer feedback. Self-paced learning."
+        },
+        {
+          "id": 3,
+          "title": "Leadership Development",
+          "description": "Develop essential leadership skills to motivate and guide teams towards success.",
+          "image": "leadership.jpg",
+          "price": 69.99,
+          "other_info": "Learn leadership theories, decision-making strategies, and techniques for inspiring and empowering others. Duration: 10 weeks. Engaging lectures and case studies. Instructor-led."
+        },
+        {
+          "id": 4,
+          "title": "Conflict Resolution",
+          "description": "Learn strategies to resolve conflicts peacefully and maintain positive relationships.",
+          "image": "conflict_resolution.jpg",
+          "price": 54.99,
+          "other_info": "Understand different conflict resolution styles, negotiation tactics, and mediation techniques. Duration: 6 weeks. Role-playing scenarios and real-world case studies. Self-paced learning."
+        },
+        {
+          "id": 5,
+          "title": "Time Management",
+          "description": "Master the art of time management to boost productivity and reduce stress.",
+          "image": "time_management.jpg",
+          "price": 44.99,
+          "other_info": "Discover time management tools, prioritization techniques, and strategies for minimizing distractions. Duration: 8 weeks. Practical exercises and personalized time management plans. Instructor-led sessions."
+        }
+        {
+          "id": 6,
+          "title": "Emotional Intelligence",
+          "description": "Develop emotional intelligence skills for better self-awareness and relationship management.",
+          "image": "emotional_intelligence.jpg",
+          "price": 64.99,
+          "other_info": "Learn to recognize and manage emotions, empathize with others, and build strong interpersonal relationships. Duration: 6 weeks. Emotional intelligence assessments and reflection activities. Self-paced."
+        },
+        {
+          "id": 7,
+          "title": "Stress Management",
+          "description": "Learn effective techniques to manage stress and maintain well-being in challenging situations.",
+          "image": "stress_management.jpg",
+          "price": 49.99,
+          "other_info": "Explore stress reduction strategies, mindfulness practices, and relaxation techniques. Duration: 8 weeks. Guided meditation sessions and stress management plans. Instructor-led."
+        },
+        {
+          "id": 8,
+          "title": "Adaptability",
+          "description": "Enhance your ability to adapt to changing circumstances and thrive in diverse environments.",
+          "image": "adaptability.jpg",
+          "price": 59.99,
+          "other_info": "Develop resilience, flexibility, and openness to change. Learn to thrive in uncertain environments. Duration: 10 weeks. Real-life case studies and adaptability challenges. Self-paced."
+        },
+        {
+          "id": 9,
+          "title": "Problem Solving",
+          "description": "Master problem-solving techniques to address challenges and make informed decisions.",
+          "image": "problem_solving.jpg",
+          "price": 54.99,
+          "other_info": "Acquire critical thinking skills, analytical reasoning, and creative problem-solving techniques. Duration: 8 weeks. Hands-on problem-solving exercises and group discussions. Instructor-led."
+        },
+        {
+          "id": 10,
+          "title": "Critical Thinking",
+          "description": "Develop critical thinking skills to analyze information objectively and make sound judgments.",
+          "image": "critical_thinking.jpg",
+          "price": 64.99,
+          "other_info": "Learn to evaluate evidence, reason logically, and consider multiple perspectives. Duration: 6 weeks. Critical thinking assessments and real-world case studies. Self-paced."
+        }
+      ]
+}

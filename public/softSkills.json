@@ -1,0 +1,45 @@
+{
+    "soft_skills_courses": [
+        {
+          "_id": 21,
+          "title": "Effective Communication",
+          "description": "Learn how to communicate effectively in both personal and professional settings.",
+          "image": "https://i.ibb.co/GPDRJPr/Effective-Communication.jpg",
+          "price": 49.99,
+          "other_info": "This course covers verbal and non-verbal communication techniques, active listening, and conflict resolution strategies. Duration: 6 weeks. Instructor-led sessions with interactive exercises."
+        },
+        {
+          "_id": 22,
+          "title": "Teamwork and Collaboration",
+          "description": "Enhance your ability to work collaboratively with others and achieve common goals.",
+          "image": "https://i.ibb.co/TqJFP6Z/Teamwork-and-Collaboration.jpg",
+          "price": 59.99,
+          "other_info": "Explore team dynamics, effective delegation, and problem-solving in group settings. Duration: 8 weeks. Includes group projects and peer feedback. Self-paced learning."
+        },
+        {
+          "_id": 23,
+          "title": "Leadership Development",
+          "description": "Develop essential leadership skills to motivate and gu_ide teams towards success.",
+          "image": "https://i.ibb.co/0yf2m98/Leadership-Development.jpg",
+          "price": 69.99,
+          "other_info": "Learn leadership theories, decision-making strategies, and techniques for inspiring and empowering others. Duration: 10 weeks. Engaging lectures and case studies. Instructor-led."
+        },
+        {
+          "_id": 24,
+          "title": "Conflict Resolution",
+          "description": "Learn strategies to resolve conflicts peacefully and maintain positive relationships.",
+          "image": "https://i.ibb.co/nLJKT29/Conflict-Resolution.jpg",
+          "price": 54.99,
+          "other_info": "Understand different conflict resolution styles, negotiation tactics, and mediation techniques. Duration: 6 weeks. Role-playing scenarios and real-world case studies. Self-paced learning."
+        },
+        {
+          "_id": 25,
+          "title": "Time Management",
+          "description": "Master the art of time management to boost productivity and reduce stress.",
+          "image": "https://i.ibb.co/DK5FQX8/Time-Management.jpg",
+          "price": 44.99,
+          "other_info": "Discover time management tools, prioritization techniques, and strategies for minimizing distractions. Duration: 8 weeks. Practical exercises and personalized time management plans. Instructor-led sessions."
+        }
+        
+      ]
+}

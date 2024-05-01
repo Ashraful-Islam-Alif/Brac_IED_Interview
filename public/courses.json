@@ -1,0 +1,26 @@
+{
+    "courses": [
+      {
+        "_id": "1",
+        "title": "Soft Skills Mastery",
+        "description": "Learn essential soft skills such as communication, teamwork, leadership, and problem-solving to excel in your career and personal life.",
+        "image": "https://i.ibb.co/7gDcs83/soft-skills.png",
+        "price": "$99.99"
+      },
+      {
+        "_id": "2",
+        "title": "Technical Skills Bootcamp",
+        "description": "Get hands-on training in technical skills like programming, data analysis, web development, and more, to enhance your job prospects and stay competitive in the digital age.",
+        "image": "https://i.ibb.co/bmHk559/technical-skill.jpg",
+        "price": "$149.99"
+      },
+      {
+        "_id": "3",
+        "title": "Early Childhood Education Fundamentals",
+        "description": "Master the fundamentals of early childhood education, including child development, curriculum planning, classroom management, and fostering a nurturing learning environment for young learners.",
+        "image": "https://i.ibb.co/Xk7JtWZ/early-childhood-development.jpg",
+        "price": "$79.99"
+      }
+    ]
+  }
+  

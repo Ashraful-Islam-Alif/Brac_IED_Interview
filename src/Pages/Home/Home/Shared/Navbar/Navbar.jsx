@@ -1,8 +1,10 @@
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
   const navOptions = (
     <>
       <li>
-        <a>Item 1</a>
+        <Link to="/soft_skills">Soft Skills</Link>
       </li>
       <li>
         <a>Item 2</a>
@@ -40,7 +42,7 @@ const Navbar = () => {
             {navOptions}
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">daisyUI</a>
+        <Link to='/' className="text-lg font-extrabold"><img className="w-16 rounded" src="/public/BRAC-IED-Color_PNG.png" alt=""/></Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{navOptions}</ul>

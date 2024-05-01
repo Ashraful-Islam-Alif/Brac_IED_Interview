@@ -1,0 +1,84 @@
+{
+    "technical_skills_courses": [
+        {
+          "id": 31,
+          "title": "Web Development Fundamentals",
+          "description": "Get started with the basics of web development including HTML, CSS, and JavaScript.",
+          "image": "web_development.jpg",
+          "price": 79.99,
+          "other_info": "This course covers front-end and back-end web development, responsive design principles, and version control systems. Duration: 12 weeks. Hands-on coding projects and portfolio building. Instructor-led sessions."
+        },
+        {
+          "id": 32,
+          "title": "Python Programming",
+          "description": "Learn the fundamentals of Python programming language for various applications.",
+          "image": "python.jpg",
+          "price": 89.99,
+          "other_info": "Master Python syntax, data structures, and object-oriented programming concepts. Duration: 10 weeks. Coding exercises and mini-projects. Self-paced learning with personalized feedback."
+        },
+        {
+          "id": 33,
+          "title": "Data Science Essentials",
+          "description": "Introduction to data science concepts including data analysis, visualization, and machine learning.",
+          "image": "data_science.jpg",
+          "price": 99.99,
+          "other_info": "Explore data manipulation, statistical analysis, and predictive modeling techniques using Python and R. Duration: 14 weeks. Data science projects and Kaggle competitions. Instructor-led sessions."
+        },
+        {
+          "id": 34,
+          "title": "JavaScript Frameworks",
+          "description": "Explore popular JavaScript frameworks like React, Angular, and Vue.js for building modern web applications.",
+          "image": "javascript_frameworks.jpg",
+          "price": 109.99,
+          "other_info": "Learn to build single-page applications, user interfaces, and interactive web components using React, Angular, and Vue.js. Duration: 10 weeks. Hands-on coding labs and real-world projects. Self-paced learning."
+        },
+        {
+          "id": 35,
+          "title": "Database Management",
+          "description": "Learn SQL and database management principles for efficient data storage and retrieval.",
+          "image": "database_management.jpg",
+          "price": 94.99,
+          "other_info": "Master SQL syntax, database design, and query optimization techniques. Duration: 12 weeks. Database projects and case studies. Instructor-led sessions with SQL practice exercises."
+        },
+        {
+          "id": 36,
+          "title": "Mobile App Development",
+          "description": "Get started with mobile app development using platforms like iOS and Android.",
+          "image": "mobile_app_development.jpg",
+          "price": 119.99,
+          "other_info": "Explore iOS and Android app development, UI/UX design principles, and mobile app testing. Duration: 10 weeks. App development projects and app store deployment. Self-paced learning with mentor support."
+        },
+        {
+          "id": 37,
+          "title": "Cybersecurity Fundamentals",
+          "description": "Introduction to cybersecurity principles and best practices for protecting digital assets.",
+          "image": "cybersecurity.jpg",
+          "price": 99.99,
+          "other_info": "Understand cybersecurity threats, risk assessment, and defense strategies. Duration: 14 weeks. Hands-on labs and cybersecurity simulations. Instructor-led sessions with cybersecurity case studies."
+        },
+        {
+          "id": 38,
+          "title": "Cloud Computing Basics",
+          "description": "Learn cloud computing concepts and services provided by major cloud providers.",
+          "image": "cloud_computing.jpg",
+          "price": 109.99,
+          "other_info": "Explore cloud infrastructure, virtualization, and cloud service models (IaaS, PaaS, SaaS). Duration: 10 weeks. Cloud projects and AWS/Azure/GCP certifications prep. Self-paced learning with cloud labs."
+        },
+        {
+          "id": 39,
+          "title": "DevOps Essentials",
+          "description": "Explore DevOps practices for automating software development, testing, and deployment.",
+          "image": "devops.jpg",
+          "price": 119.99,
+          "other_info": "Learn continuous integration/continuous deployment (CI/CD), containerization, and infrastructure as code (IaC). Duration: 12 weeks. DevOps projects and automation scripts. Instructor-led sessions with real-world DevOps use cases."
+        },
+        {
+          "id": 310,
+          "title": "Machine Learning Foundations",
+          "description": "Introduction to machine learning algorithms and techniques for predictive analysis.",
+          "image": "machine_learning.jpg",
+          "price": 129.99,
+          "other_info": "Understand supervised and unsupervised learning, feature engineering, and model evaluation. Duration: 10 weeks. Machine learning projects and Kaggle competitions. Self-paced learning with machine learning libraries."
+        }
+      ]
+}

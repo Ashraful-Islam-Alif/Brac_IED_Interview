@@ -1,0 +1,84 @@
+{
+  "early_childhood_education_courses": [
+    {
+      "id": 11,
+      "title": "Child Development and Psychology",
+      "description": "Gain insights into child development stages and psychological factors influencing early childhood.",
+      "image": "child_development.jpg",
+      "price": 39.99,
+      "other_info": "Explore prenatal development, cognitive, social, and emotional development, and attachment theory. Duration: 8 weeks. Instructor-led sessions with case studies and child psychology experiments."
+    },
+    {
+      "id": 12,
+      "title": "Early Literacy and Language Development",
+      "description": "Explore strategies for fostering literacy and language skills in young children.",
+      "image": "literacy_development.jpg",
+      "price": 49.99,
+      "other_info": "Learn phonics, vocabulary development, and early literacy assessment techniques. Duration: 6 weeks. Literacy activities and language learning games. Self-paced learning with literacy journals."
+    },
+    {
+      "id": 13,
+      "title": "Creative Arts for Early Childhood",
+      "description": "Learn how to integrate creative arts into early childhood education for holistic development.",
+      "image": "creative_arts.jpg",
+      "price": 59.99,
+      "other_info": "Explore music, visual arts, drama, and movement activities for young children. Duration: 10 weeks. Creative arts projects and arts-based learning assessments. Instructor-led sessions with creative arts showcases."
+    },
+    {
+      "id": 14,
+      "title": "Assessment and Evaluation in Early Childhood",
+      "description": "Understand assessment tools and techniques for evaluating early childhood development.",
+      "image": "assessment_evaluation.jpg",
+      "price": 44.99,
+      "other_info": "Learn to use observation, portfolios, and standardized tests to assess early childhood development. Duration: 6 weeks. Assessment projects and child development assessments. Self-paced learning with assessment reports."
+    },
+    {
+      "id": 15,
+      "title": "Inclusive Education Practices",
+      "description": "Explore strategies for creating inclusive learning environments for children with diverse needs.",
+      "image": "inclusive_education.jpg",
+      "price": 54.99,
+      "other_info": "Understand special education laws, individualized education plans (IEPs), and differentiated instruction. Duration: 8 weeks. Inclusive education projects and inclusive classroom simulations. Instructor-led sessions with inclusive education case studies."
+    },
+    {
+      "id": 16,
+      "title": "Parent and Family Engagement",
+      "description": "Learn how to build positive relationships with parents and engage families in the learning process.",
+      "image": "family_engagement.jpg",
+      "price": 49.99,
+      "other_info": "Explore effective communication strategies, family involvement programs, and parent-teacher conferences. Duration: 6 weeks. Family engagement projects and parent outreach activities. Self-paced learning with family engagement reports."
+    },
+    {
+      "id": 17,
+      "title": "Health and Nutrition in Early Childhood",
+      "description": "Understand the importance of health and nutrition in early childhood development.",
+      "image": "health_nutrition.jpg",
+      "price": 39.99,
+      "other_info": "Learn about child nutrition guidelines, meal planning, and healthy eating habits. Duration: 8 weeks. Nutrition projects and healthy living workshops. Instructor-led sessions with health and nutrition assessments."
+    },
+    {
+      "id": 18,
+      "title": "Play-Based Learning",
+      "description": "Discover the benefits of play-based learning and how to incorporate it into early childhood curriculum.",
+      "image": "play_based_learning.jpg",
+      "price": 59.99,
+      "other_info": "Explore different types of play, play environments, and the role of play in child development. Duration: 10 weeks. Play-based learning projects and play-based learning assessments. Self-paced learning with play logs."
+    },
+    {
+      "id": 19,
+      "title": "Social and Emotional Development",
+      "description": "Explore strategies for supporting children's social and emotional development in early childhood.",
+      "image": "social_emotional.jpg",
+      "price": 49.99,
+      "other_info": "Understand social-emotional learning (SEL) frameworks, emotion regulation strategies, and conflict resolution skills. Duration: 8 weeks. SEL activities and emotional intelligence assessments. Instructor-led sessions with social-emotional development plans."
+    },
+    {
+      "id": 110,
+      "title": "Early Childhood Curriculum Design",
+      "description": "Learn how to design and implement developmentally appropriate curriculum for young children.",
+      "image": "curriculum_design.jpg",
+      "price": 69.99,
+      "other_info": "Explore curriculum models, learning domains, and curriculum planning principles. Duration: 12 weeks. Curriculum design projects and curriculum implementation simulations. Self-paced learning with curriculum portfolios."
+    }
+  ]
+}
