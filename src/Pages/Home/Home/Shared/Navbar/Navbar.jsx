@@ -4,7 +4,7 @@ const Navbar = () => {
   const navOptions = (
     <>
       <li>
-        <Link to="/soft_skills">Soft Skills</Link>
+        <Link to="softSkills">Soft Skills</Link>
       </li>
       <li>
         <a>Item 2</a>

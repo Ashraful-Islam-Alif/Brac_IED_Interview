@@ -20,7 +20,7 @@ const Courses = () => {
           <p className="text-xl font-bold">
             <span className="font-extrabold text-xl">৳:</span> $99.99
           </p>
-          <Link to="course/softSkills">
+          <Link to="softSkills">
             <button className="btn btn-success">Detail</button>
           </Link>
         </div>
@@ -32,31 +32,35 @@ const Courses = () => {
           />
           <h2 className="text-2xl font-semibold py-2">Technical Skills</h2>
           <p className="pb-4">
-          Get hands-on training in technical skills like programming, data analysis, web development, and more, to enhance your job prospects and stay competitive in the digital age.
+            Get hands-on training in technical skills like programming, data
+            analysis, web development, and more, to enhance your job prospects
+            and stay competitive in the digital age.
           </p>
           <p className="text-xl font-bold">
             <span className="font-extrabold text-xl">৳:</span> $149.99
           </p>
-          <Link to={"course/technicalSkill"}>
+          <Link to={"technicalSkills"}>
             <button className="btn btn-success">Detail</button>
           </Link>
         </div>
         <div>
           <img
             style={{ width: "100%", height: "300px" }}
-            src="https://i.ibb.co/7gDcs83/soft-skills.png"
+            src="https://i.ibb.co/Xk7JtWZ/early-childhood-development.jpg"
             alt=""
           />
-          <h2 className="text-2xl font-semibold py-2">Soft Skills</h2>
+          <h2 className="text-2xl font-semibold py-2">
+            Early Childhood Education Fundamentals
+          </h2>
           <p className="pb-4">
-            Learn essential soft skills such as communication, teamwork,
-            leadership, and problem-solving to excel in your career and personal
-            life.
+            Master the fundamentals of early childhood education, including
+            child development, curriculum planning, classroom management, and
+            fostering a nurturing learning environment for young learners.
           </p>
           <p className="text-xl font-bold">
-            <span className="font-extrabold text-xl">৳:</span> $99.99
+            <span className="font-extrabold text-xl">৳:</span> $79.99
           </p>
-          <Link to={`course/}`}>
+          <Link to={"earlychildhoodeducations"}>
             <button className="btn btn-success">Detail</button>
           </Link>
         </div>
